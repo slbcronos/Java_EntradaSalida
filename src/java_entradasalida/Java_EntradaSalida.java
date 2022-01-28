@@ -10,7 +10,7 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Salvador
+ * @author Salvador Lopez Baltazar
  */
 public class Java_EntradaSalida {
 
@@ -32,6 +32,7 @@ public class Java_EntradaSalida {
         System.out.println("-----Sistema de Datos-----");
         System.out.println("Hola: " + nombre + " y tienes: " + Edad + " años.");
         System.out.println("------------------------------");
+        System.out.println("Esta segunda linea es hecha en Mac Netbeans 12.6");
         
         
         
